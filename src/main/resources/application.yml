@@ -1,0 +1,21 @@
+#指定sqlite的存储路径
+sqllite:
+    url:C:/app/work/ideaWorkspace/mywebsite/db/sqlite.db
+server:
+    port: 8080
+
+##test1
+#person:
+#    name: zhangsan
+#    age: 18
+#    boss: false
+#    brith: 2020/2/29
+#    maps: {k1: b1 ,k2: b2}
+#    lists:
+#        - lisi
+#        - wangwu
+#        - zhaoliu
+#    dog:
+#        name: xiaogou
+#        age: 3
+
