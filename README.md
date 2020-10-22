@@ -1,9 +1,13 @@
 # BlogWeb
+
+练手小项目
+
 ###开发需求：
+
 
 个人网站模块
 
-登录/权限模块
+登录/权限模块 Spring Security OAuth2.0
 
 ssh连接工具，连接本机
 
